@@ -26,9 +26,7 @@ I earned my BSc at the University of British Columbia, studying statistics, life
 
 Away from the data: baking something sweet, gaming with friends, singing karaoke, or finding another cat GIF. 🐈
 
-### 🌿 Selected projects
-
-**Breast Cancer Progression-Free Survival Prediction Across Cohorts**  
+### 🌿 Selected projects**[Breast Cancer Progression-Free Survival Prediction Across Cohorts](https://github.com/heather-lu/breast-cancer-pfs-prediction)**  
 Compared six regression models using cross-validation in a 2,000-patient cohort. Selected LASSO for interpretability and evaluated performance in an independent later-period cohort, examining increased prediction error and shifting predictor effects.
 
 **COVID-19 Illness Severity Prediction**  
