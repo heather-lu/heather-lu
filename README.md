@@ -31,7 +31,7 @@ Away from the data: baking something sweet, gaming with friends, singing karaoke
 **[Breast Cancer Progression-Free Survival Prediction Across Cohorts](https://github.com/heather-lu/breast-cancer-pfs-prediction)**  
 Compared six regression models using cross-validation in a 2,000-patient cohort. Selected LASSO for interpretability and evaluated performance in an independent later-period cohort, examining increased prediction error and shifting predictor effects.
 
-**COVID-19 Illness Severity Prediction**  
+**[COVID-19 Illness Severity Prediction](https://github.com/heather-lu/covid-severity-prediction)**  
 Benchmarked logistic regression, decision trees, AdaBoost, and SVM classifiers in R. Built a risk-scoring tool from model probabilities and explored predictors with variable importance and partial dependence plots.
 
 **Breast Cancer Outcomes Prediction**  
