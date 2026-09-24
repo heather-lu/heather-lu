@@ -2,8 +2,6 @@
 
 <img src="floral-header.svg" width="900" alt="Hi, I’m Heather — biostatistics and data science, framed by blush and lavender flowers" />
 
-**A little data, a little curiosity, a little room to grow.**
-
 MSc Biostatistics Candidate · Columbia University · Expected May 2027
 
 [LinkedIn](https://www.linkedin.com/in/heatherlu2001/) · [Explore my projects](https://github.com/heather-lu?tab=repositories) · [Portfolio source](https://github.com/heather-lu/heather-lu.github.io)
