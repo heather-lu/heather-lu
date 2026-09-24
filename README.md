@@ -14,7 +14,7 @@ Toronto → Shanghai → Vancouver → New York
 
 ---
 
-### 🌷 A little about me
+###  A little about me
 
 I'm Heather, an MSc Biostatistics candidate at Columbia University's Mailman School of Public Health. I work with **R, Python, and SQL** to explore data, build predictive models, and make analyses reproducible.
 
@@ -26,7 +26,7 @@ I earned my BSc at the University of British Columbia, studying statistics, life
 
 Away from the data: baking something sweet, gaming with friends, singing karaoke, or finding another cat GIF. 🐈
 
-### 🌿 Selected projects
+###  Selected projects
 
 **[Breast Cancer Progression-Free Survival Prediction Across Cohorts](https://github.com/heather-lu/breast-cancer-pfs-prediction)**  
 Compared six regression models using cross-validation in a 2,000-patient cohort. Selected LASSO for interpretability and evaluated performance in an independent later-period cohort, examining increased prediction error and shifting predictor effects.
@@ -38,7 +38,7 @@ Benchmarked logistic regression, decision trees, AdaBoost, and SVM classifiers i
 Analyzed clinical features and protein biomarkers, evaluated logistic regression with ROC/AUC and cross-validation, and compared survival using Kaplan–Meier analysis and log-rank tests.  
 [View repository ↗](https://github.com/heather-lu/p8105_final) · [View group project website ↗](https://vp2587.github.io/p8105_final/)
 
-### 🪻 In my toolkit
+###  In my toolkit
 
 | Area | Tools & methods |
 | :--- | :--- |
